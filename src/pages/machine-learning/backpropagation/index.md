@@ -46,3 +46,4 @@ Siraj Raval - [Backpropagation in 5 Minutes](https://www.youtube.com/watch?v=q55
 [In depth, wiki style article](https://brilliant.org/wiki/backpropagation/)
 [Backprop on Wikipedia](https://en.wikipedia.org/wiki/Backpropagation)
 [A Step by Step Backpropagation Example](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
+[wikipedia data](https://en.wikipedia.org/wiki/Backpropagation)
